@@ -1,0 +1,21 @@
+.MovieList{
+    width: 80%;
+    margin: auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: left;
+
+}
+
+.MovieList img{
+    width: 20%;
+    height: 20%;
+    vertical-align: top;
+}
+.MovieList h5{
+    display: inline-block;
+}
+.MovieList p{
+    display: inline-block;
+}
